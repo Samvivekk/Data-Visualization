@@ -1,4 +1,4 @@
-# Data-Visualization
+# Data Analysis
 Data Analysis and Visualization on (COVID-19) data from various data sources including data from India and around the world.
 This project focuses on conducting a statistical analysis of COVID-19 data from various sources, including India and
 worldwide. The analysis aims to uncover hidden insights and patterns related to the pandemic. Statistical methods will
